@@ -1,0 +1,5 @@
+CREATE TABLE zoo (
+id SERIAL PRIMARY KEY,
+animal varchar(30),
+numAnimals integer
+);
