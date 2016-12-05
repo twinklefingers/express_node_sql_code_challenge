@@ -1,0 +1,8 @@
+If you delete this file, the terminal will throw error:
+
+```
+Error: ENOENT: no such file or directory, stat '/Users/B1-66-ER/Desktop/Prime/Prime GitHub/Week 4/express_node_sql_code_challenge/server/public/data'
+    at Error (native)
+```
+
+I didn't discover why this folder is necessary given the code. But adding the folder stoped the terminal error message.
